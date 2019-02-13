@@ -8,8 +8,9 @@
 <h3>Instalando o Angular</h3>
 <p>Para o angular funcionar é necessário ter o NodeJS e o NPM instalados</p>
 <p>No Linux segue comandos abaixo:</p>
-<p><strong>sudo apt update</strong></p>
-<p><strong>sudo apt update</strong></p>
-<p></p>
-<p></p>
+<p><strong>sudo apt update == atualiza o gerenciador de pacotes do Linux</strong></p>
+<p><strong>sudo apt install nodejs == instala o NodeJS</strong></p>
+<p><strong>sudo apt install npm == instala o gerenciador de pacotes do Node</strong></p>
+<p><strong>sudo npm install -g @angular/cli  == instala o Angular</strong></p>
+<p><strong>ng --version == mostra versão do Angular instalado</strong></p>
 
