@@ -13,4 +13,8 @@
 <p><strong>sudo apt install npm == instala o gerenciador de pacotes do Node</strong></p>
 <p><strong>sudo npm install -g @angular/cli  == instala o Angular</strong></p>
 <p><strong>ng --version == mostra versão do Angular instalado</strong></p>
-
+<h2>Criando Projeto</h2>
+<p><strong>ng new nome_projeto == cria novo projeto Angular</strong></p>
+<p><strong>sudo npm install -g @angular/cli  == instala o Angular</strong></p>
+<h2>Iniciando Angular</h2>
+<p>ng serve --o == inicia o Angular, abre o navegador com uma página de boas-vinda do Angular</p>
