@@ -18,3 +18,4 @@
 <p><strong>sudo npm install -g @angular/cli  == instala o Angular</strong></p>
 <h2>Iniciando Angular</h2>
 <p>ng serve --o == inicia o Angular, abre o navegador com uma página de boas-vinda do Angular</p>
+p><strong>ng g c nome_componente == cria novo componente ( g=generate c=component)</strong></p>
